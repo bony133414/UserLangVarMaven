@@ -1,0 +1,2 @@
+# UserLangVarMaven
+Simple Maven project
